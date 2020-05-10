@@ -17,6 +17,7 @@ int main(){
     printf("Value pointed by myp is : %d \n", *myp);
     printf("Value of card is : %d \n", card);
 
+
     return 0;
 }
 

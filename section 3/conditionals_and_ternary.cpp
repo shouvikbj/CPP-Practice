@@ -37,5 +37,6 @@ int main(){
     int result = str ? 1 : 0 ; // using ternary operator
     printf("You chose : %d \n", result);
 
+
     return 0;
 }

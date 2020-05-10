@@ -36,6 +36,5 @@ int main(){
     cout << another_array[1] << endl;
 
 
-
     return 0;
 }

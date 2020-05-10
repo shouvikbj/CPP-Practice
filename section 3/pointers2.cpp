@@ -15,5 +15,6 @@ int main(){
     cout << "Value of the pointer is : " << myp << endl;
 
 
+
     return 0;
 }
