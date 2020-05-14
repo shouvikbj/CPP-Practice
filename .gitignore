@@ -20,3 +20,7 @@ operations
 logical_operations
 bitwise_operation
 memory_leaks
+structs
+enums_and_preprocessors
+strongly_typed
+heap_stack
