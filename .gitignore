@@ -24,3 +24,11 @@ structs
 enums_and_preprocessors
 strongly_typed
 heap_stack
+functions_in_details
+header_file
+templates
+functional_pointers
+nullptr
+factorial_and_recursion
+macros
+variadic_templates_and_recursion
