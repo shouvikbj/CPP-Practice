@@ -38,3 +38,9 @@ this
 inheritance
 polymorphism
 smart_pointers
+move_sementics_Lvalue_and_Rvalue
+swap
+dynamic_array_from_STL
+lambda
+create_rename_delete_files
+reading_and_writing_into_files
