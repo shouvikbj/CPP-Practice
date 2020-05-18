@@ -35,3 +35,5 @@ variadic_templates_and_recursion
 classes_and_objects
 constructors_and_destructors
 this
+inheritance
+polymorphism
