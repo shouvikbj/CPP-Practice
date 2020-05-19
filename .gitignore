@@ -48,3 +48,11 @@ generic_programming
 functions_in_stl
 SORT_and_SEARCH_algorithms_in_STL
 partition_and_stable_partition
+vectors_in_STL
+list_in_STL
+queue_and_priority_queue_in_STL
+deque
+stack_in_STL
+forward_list_in_STL
+sets_and_multisets_in_STL
+maps_in_STL
