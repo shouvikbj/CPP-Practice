@@ -44,3 +44,7 @@ dynamic_array_from_STL
 lambda
 create_rename_delete_files
 reading_and_writing_into_files
+generic_programming
+functions_in_stl
+SORT_and_SEARCH_algorithms_in_STL
+partition_and_stable_partition
